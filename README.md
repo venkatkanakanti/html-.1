@@ -95,7 +95,7 @@ http://localhost:3000
 ## 🙌 Author
 
 **Venkata Ramana Reddy**
-Aspiring Java Backend Developer 🚀
+Aspiring Full stack web developer 🚀
 
 ---
 
